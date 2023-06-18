@@ -1,6 +1,7 @@
 ### Hi there 👋
 Here I'll be covering simulation engineering.
-Quant project or animated film production project part can be seen in the corresponding ID listed.
+
+Other existing projects ex)Quant project or animated film production project part can be seen in the corresponding ID listed.
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatepeanut)](https://solved.ac/hatepeanut)
